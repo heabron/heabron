@@ -3,7 +3,6 @@ Sou estudante de Ciência da Computação. Gosto de ouvir e tocar música; tenho
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heabron&show_icons=true&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heabron&layout=compact&show_icons=true&theme=midnight-purple)
 
 ##
 
