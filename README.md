@@ -1,5 +1,5 @@
-### Oioi! Sou a Helo o(^▽^)o
-Sou estudante de Ciência da Computação. Gosto de ouvir e tocar música; tenho uma gatinha chamada Linux<br>/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
+### Olá! Sou a Helo :) 
+Sou estudante de Ciência da Computação e desenvolvedora front-end.<br>Gosto de ouvir e tocar música; tenho uma gatinha chamada Linux e outra chamada FreeBSD<br>/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heabron&show_icons=true&theme=midnight-purple)
@@ -8,9 +8,13 @@ Sou estudante de Ciência da Computação. Gosto de ouvir e tocar música; tenho
 
 <div>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
+          
 </div>
 
 ##
