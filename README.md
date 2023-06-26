@@ -21,5 +21,5 @@ Sou estudante de Ciência da Computação e desenvolvedora front-end.<br>Gosto d
 
 <div>
   <a href= "mailto:abrantesh8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
-// <a href="https://www.instagram.com/helaronc" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
+ <a href="https://www.instagram.com/helaronc" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
 </div>
