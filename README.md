@@ -1,5 +1,5 @@
 ### Olá! Sou a Helo :) 
-Sou estudante de Ciência da Computação e desenvolvedora front-end.<br>Gosto de ouvir e tocar música; tenho uma gatinha chamada Linux e outra chamada FreeBSD<br>/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
+Sou estudante de Ciência da Computação e desenvolvedora front-end.<br>Gosto de ouvir e tocar música. Tenho duas gatinhas; uma se chama Lili (Linux) e a outra Freeba (FreeBSD)<br>/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heabron&show_icons=true&theme=midnight-purple)
@@ -21,5 +21,5 @@ Sou estudante de Ciência da Computação e desenvolvedora front-end.<br>Gosto d
 
 <div>
   <a href= "mailto:abrantesh8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
- <a href="https://www.instagram.com/helaronc" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
+// <a href="https://www.instagram.com/helaronc" target= "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target= "_blank"></a>
 </div>
