@@ -1,5 +1,5 @@
 ### Olá! Sou a Helo :) 
-Sou estudante de Ciência da Computação e desenvolvedora front-end.<br>Gosto de ouvir e tocar música. Tenho duas gatinhas; uma se chama Lili (Linux) e a outra Freeba (FreeBSD)<br>/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
+Sou estudante de Ciência da Computação e desenvolvedora front-end;<br>Também sou mãe de gato.<br>/ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heabron&show_icons=true&theme=midnight-purple)
